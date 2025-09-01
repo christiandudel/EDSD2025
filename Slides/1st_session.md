@@ -134,8 +134,8 @@ use two or more!
 # Other dates
 
 * September 23 (Tue), 16:00: MPIDR Summer Party
+* September 26 (Fri): EDSD Social Demography Day
 * October 9 (Thu): Staff outing
-* Social Demography Day?
 * Drinks?
 
 # What is R?

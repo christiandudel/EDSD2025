@@ -43,7 +43,7 @@ Books (data visualization):
 
 Books (various topics):
 
-* Hernan, Robins: Causal Inference. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
+* Hernan, Robins: Causal Inference. https://miguelhernan.org/whatifbook
 * Hastie, Tibshirani, Friedman: Elements of Statistical Learning. https://web.stanford.edu/~hastie/ElemStatLearn/ 
 * Lovelace, Nowosad, Muenchow: Geocomputation with R. https://geocompr.robinlovelace.net/ 
 

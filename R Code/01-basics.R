@@ -57,6 +57,15 @@
   log(2,5) # arguments get assigned in order of definition: x=2, base=5
   log(5,2) # different from previous example as x=5,base=2
 
+  
+### Non-mathematical functions ######################################
+  
+  # Many things can be done with functions
+  date()
+  license()
+  # Data loading, handling, analysis, and visualization will
+  # work with functions
+  
 
 ### Spacing #########################################################
 
