@@ -133,9 +133,10 @@ use two or more!
 
 # Other dates
 
-September 26 (Thu), 13:00-17:00: Social Demography Recruitment and Inspiration Day (prelim. title)
-
-Staff outing 
+* September 23 (Tue), 16:00: MPIDR Summer Party
+* October 9 (Thu): Staff outing
+* Social Demography Day?
+* Drinks?
 
 # What is R?
 
