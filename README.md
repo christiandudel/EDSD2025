@@ -6,7 +6,7 @@ This repository contains materials for the computer programming course of the ED
 
 * "R Code": R code for each session.
 * "Slides": Slides of the first session.
-* "Exercises": Voluntary exercises for the tutorial sessions, plus solutions.  
+* "Exercises": Voluntary exercises plus solutions.  
 
 ## Software
 
