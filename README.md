@@ -49,7 +49,7 @@ Books (various topics):
 Books (advanced):
 
 * Wickham: Advanced R. https://adv-r.hadley.nz/
-* Wickham, Bryan: R paclages. https://r-pkgs.org/
+* Wickham, Bryan: R packages. https://r-pkgs.org/
 
 Websites:
 
