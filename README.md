@@ -30,10 +30,9 @@ First install R, then install RStudio.
 
 ## Helpful resources
 
-Books (recommended reading):
+Recommended reading:
 
 * Wickham, Grolemund: R for Data Science. https://r4ds.hadley.nz/
-* Wickham: Advanced R. https://adv-r.hadley.nz/
 
 Books (data visualization):
 
@@ -46,6 +45,11 @@ Books (various topics):
 * Hernan, Robins: Causal Inference. https://miguelhernan.org/whatifbook
 * Hastie, Tibshirani, Friedman: Elements of Statistical Learning. https://web.stanford.edu/~hastie/ElemStatLearn/ 
 * Lovelace, Nowosad, Muenchow: Geocomputation with R. https://geocompr.robinlovelace.net/ 
+
+Books (advanced):
+
+* Wickham: Advanced R. https://adv-r.hadley.nz/
+* Wickham, Bryan: R paclages. https://r-pkgs.org/
 
 Websites:
 
