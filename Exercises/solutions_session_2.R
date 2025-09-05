@@ -1,4 +1,4 @@
-### Solutions for the exercises for session 1 ##################################
+### Solutions for the exercises for session 2 ##################################
 
 ### Exercise 1 ####
 

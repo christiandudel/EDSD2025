@@ -1,7 +1,6 @@
-### Solutions for the exercises for session 1
+### Solutions for the exercises for session 1 ##################################
 
-
-# Exercise 3
+### Exercise 3 ####
 
   1234+1234
   151/7
@@ -16,7 +15,7 @@
   # when trying to find the error.
   
 
-# Exercise 4
+### Exercise 4 ####
   
   x <- sqrt(2)
   y <- x^2
