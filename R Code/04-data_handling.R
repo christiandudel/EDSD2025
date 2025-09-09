@@ -98,8 +98,8 @@
   # What the raw data looks like:
   # https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
 
-  # Load many libraries at once
-  library(tidyverse)
+  # Load many libraries at once (already happened above)
+  # library(tidyverse)
 
   # Load data
   datapath <- "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv"
@@ -136,7 +136,7 @@
            geom_line()
   fig1
 
-  # Polsih some more
+  # Make nicer
   cols <- c("#2ca25f",
             "#f0027f",
             "#beaed4",
@@ -146,7 +146,7 @@
     geom_line(linewidth=1)+
     labs(x="Date",
          y="Deaths/million",
-         title="COVID-19 deaths per million inhabitants",
+         title="Cumulative COVID-19 deaths per million inhabitants",
          subtitle="February-August 2024",
          caption="Source: OWID/ECDC")+
     scale_colour_manual(values = cols)+
