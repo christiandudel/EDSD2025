@@ -37,6 +37,13 @@ Load the 'birthwt' data set from the MASS package and create a bar plot of the a
 
 ## 6th session
 
+Using the U.S. birth register data for 2023, run a logistic regression model using 
+the birth weight in grams as the outcome and the maternal age, the paternal age, and maternal
+smoking during pregnancy as predictors. How much does smoking reduce the average
+birth weight? 
+
+## 7th session
+
 Write a function which calculates the average absolute deviation from the mean [1]. It should have an argument which allows to deal with missing values, similar to the mean() function. Apply your function to the following test cases:
 
 * 1:10
@@ -45,10 +52,7 @@ Write a function which calculates the average absolute deviation from the mean [
 
 [1] https://en.wikipedia.org/wiki/Average_absolute_deviation#Mean_absolute_deviation_around_a_central_point
 
-## 7th session
-  
-(No exercises)
-
 ## 8th session
   
 (No exercises)
+

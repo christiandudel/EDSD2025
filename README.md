@@ -23,10 +23,10 @@ First install R, then install RStudio.
 * September 4 (Thu), 09:30 - 11:30: Descriptive statistics
 * September 9 (Tue), 09:30 - 11:30: Data visualization
 * September 11 (Thu), 13:30 - 15:30: Data handling
-* September 22 (Mon), 09:30 - 11:30: Example
-* September 24 (Wed), 13:30 - 15:30: Programming (1)
-* October 14 (Tue), 13:30 - 15:30: Programming (2)
-* October 15 (Wed), 13:30 - 15:30: Programming example
+* September 22 (Mon), 09:30 - 11:30: Example (1)
+* September 24 (Wed), 13:30 - 15:30: Example (2) 
+* October 14 (Tue), 13:30 - 15:30: Programming (1)
+* October 15 (Wed), 13:30 - 15:30: Programming (2)
 
 ## Helpful resources
 
