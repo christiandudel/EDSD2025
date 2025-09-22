@@ -21,7 +21,7 @@
   # https://data.nber.org/nvss/natality/inputs/pdf/2023/UserGuide2023.pdf
   
   # Download, the file is around 2GB, might take some time
-  file1 <- "U:/Data/nat2023us.csv"
+  file1 <- "U:/Data/natality2023us.csv"
   if(!file.exists(file1)) {
     GET(url,write_disk(file1, overwrite = TRUE), progress() )
   }
