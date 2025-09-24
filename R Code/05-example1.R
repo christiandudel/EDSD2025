@@ -48,12 +48,7 @@
   
   # Load
   load(file2)
-  
-  # Why saving as Rdata?
-  file.size(file1)
-  file.size(file2)
-  file.size(file1)/file.size(file2)
-  
+
   
 ### Quick look at data #########################################################
   
